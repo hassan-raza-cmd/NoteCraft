@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Acknowledgments**
 
 - Inspired by Microsoft Notepad and Notepad++.
-- Thanks to the contributors and users for their support.
+- Thanks to the Hasnain and users for their support.
 
 ---
 
